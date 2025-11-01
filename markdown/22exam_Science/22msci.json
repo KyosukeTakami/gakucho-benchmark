@@ -1,0 +1,409 @@
+[
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "1(1)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 1.1, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 44.3, "correct": true },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 1.2, "correct": false },
+    { "type_id": 4, "answer_type": "エ", "response_rate_percent": 53.3, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.1, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.1, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "1(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "アとウ", "response_rate_percent": 78.8, "correct": true },
+    { "type_id": 2, "answer_type": "イとウ", "response_rate_percent": 1.1, "correct": false },
+    { "type_id": 3, "answer_type": "アとエ、イとエ", "response_rate_percent": 3.6, "correct": false },
+    { "type_id": 4, "answer_type": "アとイ、ウとエ", "response_rate_percent": 3.9, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 12.6, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.1, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "2(1)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 40.0, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 54.5, "correct": true },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 5.3, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "2(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 7.3, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 40.9, "correct": true },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 9.1, "correct": false },
+    { "type_id": 4, "answer_type": "エ", "response_rate_percent": 42.4, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.3, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "2(3)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 7.1, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 38.1, "correct": false },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 25.8, "correct": false },
+    { "type_id": 4, "answer_type": "エ", "response_rate_percent": 28.6, "correct": true },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.3, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "3(1)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 3.3, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 10.3, "correct": false },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 80.2, "correct": true },
+    { "type_id": 4, "answer_type": "エ", "response_rate_percent": 6.0, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.1, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "3(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 29.1, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 60.6, "correct": true },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 9.9, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.3, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "3(3)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [
+    "酸素（解答類型３）",
+    "水素（解答類型３）",
+    "二酸化炭素（解答類型９９）",
+    "水素自動車（解答類型９９）",
+    "東京オリンピック・パラリンピックの聖火（解答類型９９）"
+  ],
+  "answers": [
+    { "type_id": 1, "answer_type": "太陽の光（太陽も可）", "response_rate_percent": 24.9, "correct": true },
+    { "type_id": 2, "answer_type": "電気エネルギー又は太陽電池（光電池）", "response_rate_percent": 20.1, "correct": false },
+    { "type_id": 3, "answer_type": "電気分解又は燃焼に関係する物質", "response_rate_percent": 43.7, "correct": false },
+    { "type_id": 4, "answer_type": "熱・光", "response_rate_percent": 1.9, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 5.2, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 4.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "4(1)",
+  "correct_condition": "次の（a）と（b）の両方、又はいずれかを満たしているもの\n（a）ダイオウグソクムシとダンゴムシの生活場所を比較して記述している。\n（b）ダイオウグソクムシとダンゴムシの移動の仕方を比較して記述している。",
+  "correct_examples": [
+    "ダイオウグソクムシは深海（水中）を泳ぎ、ダンゴムシは陸上を歩くから。（解答類型１）",
+    "ダイオウグソクムシは深海（水中）で生活し、ダンゴムシは陸上で生活しているから。（解答類型２）",
+    "ダイオウグソクムシは泳ぐが、ダンゴムシは泳がないから。（解答類型３）",
+    "ダイオウグソクムシは深海（水中）を泳ぐから（解答類型４）"
+  ],
+  "incorrect_examples":[
+    "普段生活している環境が違うから（解答類型５）",
+    "ダイオウグソクムシは足がまっすぐで、ダンゴムシは少し曲がっている。（解答類型５）",
+    "ダイオウグソクムシは足の本数がダンゴムシより多い。（解答類型５）"
+  ],
+  "answers":[
+    { "type_id": 1, "answer_type": "（a）と（b）の両方を満たしているもの", "response_rate_percent": 36.6, "correct": true },
+    { "type_id": 2, "answer_type": "（a）だけを満たしているもの", "response_rate_percent": 18.8, "correct": true },
+    { "type_id": 3, "answer_type": "（b）だけを満たしているもの", "response_rate_percent": 12.1, "correct": true },
+    { "type_id": 4, "answer_type": "（a）又は（b）について、一方の生物について記述しているもの。", "response_rate_percent": 7.3, "correct": true },
+    { "type_id": 5, "answer_type": "（a）と（b）の両方を満たしていないが、レポート１の共通点と相違点に関するもの", "response_rate_percent": 7.3, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 3.3, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 5.4, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "4(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "X: イ , Y: キ", "response_rate_percent": 65.9, "correct": true },
+    { "type_id": 2, "answer_type": "X: ア , Y: カ", "response_rate_percent": 15.2, "correct": false },
+    { "type_id": 3, "answer_type": "X: ウ , Y: ク", "response_rate_percent": 0.3, "correct": false },
+    { "type_id": 4, "answer_type": "解答類型1から3以外の組合せの解答", "response_rate_percent": 18.3, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "5(1)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "つり合う力を表した矢印: ア , つり合う力の説明: キ", "rate": 15.5, "correct": true },
+    { "type_id": 2, "answer_type": "つり合う力を表した矢印: ア ,つり合う力の説明: キ以外", "rate": 2.4, "correct": false },
+    { "type_id": 3, "answer_type": "つり合う力を表した矢印: ア以外 ,つり合う力の説明: キ", "rate": 62.1, "correct": false },
+    { "type_id": 4, "answer_type": "つり合う力を表した矢印: ア以外 ,つり合う力の説明: キ以外", "rate": 18.8, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "rate": 0.8, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "rate": 0.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "5(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "Ａ", "response_rate_percent": 45.5, "correct": true },
+    { "type_id": 2, "answer_type": "Ｂ", "response_rate_percent": 23.5, "correct": false },
+    { "type_id": 3, "answer_type": "Ｃ", "response_rate_percent": 18.0, "correct": false },
+    { "type_id": 4, "answer_type": "Ｄ", "response_rate_percent": 12.6, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.4, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "5(3)",
+  "correct_condition": "次の（a）と（b）の両方、又は（c）を満たし、測定値を増やしているもの\n（a）刻み幅を数値で示している。\n（b）測定する範囲を数値で示している。\n（c）2.0 N より大きい力で、１点又は２点の測定値を示している。",
+  "correct_examples": [
+    "加える力の大きさを0 N から0.2 N ずつ2.0 N まで変化させる。（解答類型３）",
+    "加える力の大きさを2.0 N から0.5 N ずつ4.0 N まで変化させる。（解答類型３）",
+    "加える力の大きさを3.0 N にして測定する。（解答類型４）"
+  ],
+  "incorrect_examples":[
+    "おもりをより重いものにして測定する。 （解答類型５）",
+    "測定する間隔をもっと細かくして実験を行う。 （解答類型５）",
+    "何度も同じ実験を行い、測定値を増やす。 （解答類型６）",
+    "磁石のＮ極同士が向き合うようにする。 （解答類型６）",
+    "加える力の大きさを0 から0.2 ずつ2.0 まで変化させる。（解答類型９９）",
+    "縮む長さが変わらなくなるまで測定値を増やせばよい。（解答類型９９）",
+    "リニアモーターカーには磁気ばねの原理が使われている（解答類型９９）"
+  ],
+  "answers": [
+    { "type_id": 1, "answer_type": "（a）だけを満たしているもの", "response_rate_percent": 5.2, "correct": false },
+    { "type_id": 2, "answer_type": "（b）だけを満たしているもの", "response_rate_percent": 3.1, "correct": false },
+    { "type_id": 3, "answer_type": "（a）と（b）を満たしているもの", "response_rate_percent": 43.5, "correct": true },
+    { "type_id": 4, "answer_type": "（c）を満たしているもの", "response_rate_percent": 0.2, "correct": true },
+    { "type_id": 5, "answer_type": "（a）～（c）のいずれも満たしていないが、加える力の大きさに関して数値を示していないもの", "response_rate_percent": 6.7, "correct": false },
+    { "type_id": 6, "answer_type": "（a）～（c）のいずれも満たしていないが、ノートの記述に関するもの", "response_rate_percent": 7.7, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 4.6, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.4, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "6(1)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "X: ア , Y: イ", "response_rate_percent": 48.4, "correct": true },
+    { "type_id": 2, "answer_type": "X: ア , Y: ア", "response_rate_percent": 16.1, "correct": false },
+    { "type_id": 3, "answer_type": "X: イ , Y: ア", "response_rate_percent": 29.2, "correct": false },
+    { "type_id": 4, "answer_type": "X: ア , Y: イ", "response_rate_percent": 5.9, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.1, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.3, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "6(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 9.8, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 19.3, "correct": false },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 60.6, "correct": true },
+    { "type_id": 4, "answer_type": "エ", "response_rate_percent": 9.7, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.5, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "6(3)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 34.7, "correct": true },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 13.4, "correct": false },
+    { "type_id": 3, "answer_type": "ウまたはエ", "response_rate_percent": 51.2, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.7, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "7(1)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 19.7, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 10.5, "correct": false },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 36.6, "correct": true },
+    { "type_id": 4, "answer_type": "エ", "response_rate_percent": 32.6, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.1, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.4, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "7(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "incorrect_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", "response_rate_percent": 8.7, "correct": false },
+    { "type_id": 2, "answer_type": "イ", "response_rate_percent": 53.6, "correct": true },
+    { "type_id": 3, "answer_type": "ウ", "response_rate_percent": 23.5, "correct": false },
+    { "type_id": 4, "answer_type": "エ", "response_rate_percent": 13.2, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 1.0, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "8(1)",
+  "correct_condition": "次の（a）と（b）の両方を満たしているもの\n（a）アリの行列が変化しなかったことについて記述している。\n（b）アリは、視覚による情報を基に行列をつくらないことについて記述している。",
+  "correct_examples": [
+    "（a）変化しない",
+    "（b）視覚による情報をもとに行列をつくらない"
+  ],
+  "incorrect_examples": ["Ｐ：行列は変わっていない Ｑ：視覚による情報をもとに行列をつくっている", "Ｐ：行列は変わっていない Ｑ：変わらない" ],
+  "answers": [
+    { "type_id": 1, "answer_type": "Ｐ: （a）を満たしているもの, Q: （b）を満たしているもの", "response_rate_percent": 55.8, "correct": true },
+    { "type_id": 2, "answer_type": "Ｐ: （a）を満たしているもの, Q: （b）を満たしていないもの", "response_rate_percent": 24.3, "correct": true },
+    { "type_id": 3, "answer_type": "Ｐ: （a）を満たしていないもの, Q: （b）を満たしているもの", "response_rate_percent": 0.7, "correct": false },
+    { "type_id": 4, "answer_type": "Ｐ: （a）を満たしていないもの, Q: （b）を満たしていないもの", "response_rate_percent": 6.2, "correct": false },
+    { "type_id": 5, "answer_type": "（a）と（b）の両方を満たすが、においに関することなど、この実験の考察としては過剰な推論等を記述しているもの", "response_rate_percent": 0.2, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 28.7, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 14.6, "correct": false}
+  ] 
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "8(2)",
+  "correct_condition": "においを取り除く（消す）ことについて記述しているもの",
+  "correct_examples": [
+    "においを消す（解答類型１）",
+    "十分に板の間隔をとる（解答類型１）",
+    "十分に地面を手でこする（解答類型２）",
+    "操作の手順どおりに実験する（解答類型３）"
+  ],
+  "incorrect_examples": [
+    "移動する（解答類型９９）",
+    "合流する（解答類型９９）"
+  ],
+  "answers": [
+    { "type_id": 1, "answer_type": "条件の制御が不十分であることについて解答しているもの", "response_rate_percent": 52.5, "correct": true },
+    { "type_id": 2, "answer_type": "実験の操作が不十分であることについて解答しているもの", "response_rate_percent": 2.9, "correct": true },
+    { "type_id": 3, "answer_type": "同じ操作を繰り返すことについて記述しているもの", "response_rate_percent": 0.3, "correct": true },
+    { "type_id": 4, "answer_type": "他の条件や、条件の制御と関係のない操作について解答しているもの", "response_rate_percent": 1.3, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 28.7, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 14.6, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "8(3)",
+  "correct_condition": "",
+  "correct_examples": [
+    "生物Ｘ: イ, 根拠: 生物Ｘは、あしが８本あるから。（解答類型４）",
+    "生物Ｘ: イ, 根拠: 生物Ｘは、体が頭胸部、腹部に分かれているから。（解答類型４）",
+    "生物Ｘ: イ, 根拠: 昆虫であるアリはあしが６本だが、生物Ｘのあしは８本だから。（解答類型５）",
+    "生物Ｘ: イ, 根拠: アリと生物Ｘで体の分かれている数が異なるから。（解答類型５）",
+    "生物Ｘ: イ, 根拠: アリは触角があるが、生物Ｘは触角がないから。（解答類型５）"
+  ],
+  "incorrect_examples": [
+    "足が６本ではなく８本だから。（解答類型９９）",
+    "頭、胴体、腹に分かれていない。（解答類型９９）",
+    "この昆虫はクモという昆虫だから。（解答類型９９）"
+  ],
+  "answers": [
+    { "type_id": 1, "answer_type": "生物Ｘ: ア, 根拠: 昆虫の体の特徴を記述しているもの ", "response_rate_percent": 8.8, "correct": false },
+    { "type_id": 2, "answer_type": "生物Ｘ: ア, 根拠: 生物Ｘの体の特徴やアリとの相違点を記述しているもの", "response_rate_percent": 3.6, "correct": false },
+    { "type_id": 3, "answer_type": "生物Ｘ: イ, 根拠: 昆虫の体の特徴を記述しているもの", "response_rate_percent": 1.6, "correct": false },
+    { "type_id": 4, "answer_type": "生物Ｘ: イ, 根拠: 生物Ｘについて、昆虫の体の特徴と相違点を記述しているもの", "response_rate_percent": 9.0, "correct": true },
+    { "type_id": 5, "answer_type": "生物Ｘ: イ, 根拠: アリと生物Ｘを比較して、体の特徴の相違点を記述しているもの", "response_rate_percent": 30.9, "correct": true },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 44.8, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 1.4, "correct": false }
+  ]
+}
+]

@@ -1,0 +1,72 @@
+[{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "1(1)",
+  "correct_condition": "",
+  "correct_examples": [
+    ""
+  ],
+  "answers": [
+    { "type_id": 1, "answer_type": "ア", " response_rate_percent ": 1.1, "correct": false },
+    { "type_id": 2, "answer_type": "イ", " response_rate_percent ": 44.3, "correct": true },
+    { "type_id": 3, "answer_type": "ウ", " response_rate_percent ": 1.2, "correct": false },
+    { "type_id": 4, "answer_type": "エ", " response_rate_percent ": 53.3, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", " response_rate_percent ": 0.1, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", " response_rate_percent ": 0.1, "correct": false }
+  ]
+},  
+    {
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "4(2)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "X: イ , Y: キ", "response_rate_percent": 65.9, "correct": true },
+    { "type_id": 2, "answer_type": "X: ア , Y: カ", "response_rate_percent": 15.2, "correct": false },
+    { "type_id": 3, "answer_type": "X: ウ , Y: ク", "response_rate_percent": 0.3, "correct": false },
+    { "type_id": 4, "answer_type": "解答類型1から3以外の組合せの解答", "response_rate_percent": 18.3, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "5(1)",
+  "correct_condition": "",
+  "correct_examples": [],
+  "answers": [
+    { "type_id": 1, "answer_type": "つり合う力を表した矢印: ア , つり合う力の説明: キ", "rate": 15.5, "correct": true },
+    { "type_id": 2, "answer_type": "つり合う力を表した矢印: ア , つり合う力の説明: キ以外", "rate": 2.4, "correct": false },
+    { "type_id": 3, "answer_type": "つり合う力を表した矢印: ア以外 , つり合う力の説明: キ", "rate": 62.1, "correct": false },
+    { "type_id": 4, "answer_type": "つり合う力を表した矢印: ア以外 , つり合う力の説明: キ以外", "rate": 18.8, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "rate": 0.8, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "rate": 0.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Science",
+  "year": "2022",
+  "question_number": "8(2)",
+  "correct_condition": "においを取り除く（消す）ことについて記述しているもの",
+  "correct_examples": [
+    "においを消す（解答類型1）",
+    "十分に換気をする（解答類型1）",
+    "十分に距離をとる（解答類型2）"
+  ],
+  "answers": [
+    { "type_id": 1, "answer_type": "条件の制御が不十分であることについて解答しているもの", "response_rate_percent": 52.5, "correct": false },
+    { "type_id": 2, "answer_type": "実験の操作が不十分であることについて解答しているもの", "response_rate_percent": 2.9, "correct": true },
+    { "type_id": 3, "answer_type": "同じ操作を繰り返すことについて記述しているもの（正答例）・操作の手順通りに実験する", "response_rate_percent": 0.3, "correct": false },
+    { "type_id": 4, "answer_type": "他の条件や条件の詳細とは関係のない操作について解答しているもの", "response_rate_percent": 1.0, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 28.7, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 14.6, "correct": false }
+  ]
+}
+  
+  ]

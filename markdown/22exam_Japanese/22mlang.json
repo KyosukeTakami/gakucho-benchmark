@@ -1,0 +1,296 @@
+[
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "1(一)",
+  "correct_condition": "次の条件を満たして解答している。\n① 「最近、ふだんの生活がこれまでとは違うものになってきていると\n感じます。」という部分について、どのような言葉を加えて直すと呼びかけたり問いかけたりする表現になるかが分かるように書いている。\n② 実際に話すように書いている。",
+  "correct_examples": [
+    "皆さん、最近、ふだんの生活がこれまでとは違うものになってきていると感じませんか。", 
+    "最近、ふだんの生活がこれまでとは違うものになってきていると感じます。皆さんもそう思いませんか。"
+    ],
+  "incorrect_examples": [
+    "皆さんの中で、最近、ふだんの生活がこれまでとは違うものになってきていると感じたことのある人もいると思います。（解答類型３）",
+    "最近、これまでとは違っていませんか。",
+    "皆さんもふだんの生活でインターネットを使用しているのではないでしょうか。"
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "条件①、②を満たして解答しているもの", "response_rate_percent": 75.0, "correct": true },
+    { "type_id": 2, "answer_type": "条件①を満たし、条件②を満たさないで解答しているもの", "response_rate_percent": 0.2, "correct": false },
+    { "type_id": 3, "answer_type": "条件②を満たし、条件①を満たさないで解答しているもの", "response_rate_percent": 19.4, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 1.6, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 3.7, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "1(二)",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "１", "response_rate_percent": 11.0, "correct": false },
+    { "type_id": 2, "answer_type": "２", "response_rate_percent": 5.9, "correct": false },
+    { "type_id": 3, "answer_type": "３", "response_rate_percent": 65.6, "correct": true },
+    { "type_id": 4, "answer_type": "４", "response_rate_percent": 17.4, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.1, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "1(三)",
+  "correct_condition": "① 【川口さんのスピーチ】の中から、「オンラインで離れた場所にいる人と会話をすること」という部分以外を具体的に取り上げて書いている。\n② ①で取り上げた部分をどのように工夫して話すのかについて、以下のa、bの両方またはいずれかに着目して具体的に書いている。\n  a 言葉の抑揚や強弱、間の取り方など音声での表現の仕方に着目した工夫。\n  b 視線の方向など、a以外の話し方の工夫。\n③ ②のように話す意図を書いている。",
+  "correct_examples": [
+    "「オンラインであっても、相手が話したことに相づちを打ったり、相手の話を受けてさらに質問をしたりするように意識することが大事だったのです。」という部分が一番伝えたいことなので、他の部分よりも大きな声で話す。（解答類型１）",
+    "私は、自分が一番伝えたいことに着目してもらうために、「この言葉を聞いてはっとしました。」のあとに少し間を取ります。（解答類型１）",
+    "「相手の反応を踏まえたやりとりをすることができていない」という部分の語調を強めて、課題だと感じていることを強調したい。（解答類型１）",
+    "「やりとりをスムーズに行いにくいという面もある」の部分の印象を強めるために、聞いている人たちを見渡しながら話す。（解答類型２）"
+    ],
+  "incorrect_examples": [
+    "「オンラインであっても、相手が話したことに相づちを打ったり、相手の話を受けてさらに質問をしたりするように意識することが大事だったのです。」という部分をゆっくり大きな声で話す。（解答類型３）",
+    "「この言葉を聞いてはっとしました。」の「はっと」のところを強く言ったらよいと思う。（解答類型３）",
+    "「私は、相手の言ったことに対して相づちを打つように気を付けていました。」という部分は、大切なことなので、強弱を工夫して話すとよいと思います。（解答類型４）",
+    "聞いている相手に、どこが自分の一番伝えたいところなのかを知ってもらうために、その部分をゆっくり大きな声で強調して話すとよいのではないでしょうか。（解答類型５）"
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "条件①、②a、③を満たして解答しているもの\n＊ ②bを同時に満たして解答しているものを含む。", "response_rate_percent": 52.1, "correct": true },
+    { "type_id": 2, "answer_type": "条件①、②b、③を満たして解答しているもの", "response_rate_percent": 0.2, "correct": true },
+    { "type_id": 3, "answer_type": "条件①、②を満たし、条件③を満たさないで解答しているもの", "response_rate_percent": 5.7, "correct": false },
+    { "type_id": 4, "answer_type": "条件①、③を満たし、条件②を満たさないで解答しているもの", "response_rate_percent": 3.9, "correct": false },
+    { "type_id": 5, "answer_type": "条件②、③を満たし、条件①を満たさないで解答しているもの", "response_rate_percent": 8.5, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 13.6, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 15.9, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "2(一)",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "１", "response_rate_percent": 1.2, "correct": false },
+    { "type_id": 2, "answer_type": "２", "response_rate_percent": 9.7, "correct": false },
+    { "type_id": 3, "answer_type": "３", "response_rate_percent": 6.3, "correct": false },
+    { "type_id": 4, "answer_type": "４", "response_rate_percent": 82.6, "correct": true },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "2(二)①",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    "「徐」（解答類型９９）",
+    "「退」（解答類型９９）"
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "「除（く）」", "response_rate_percent": 82.4, "correct": true },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 9.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 8.6, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "2(二)②",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    "「嬉」（解答類型９９）",
+    "「善」（解答類型９９）"
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "「喜（んで）」", "response_rate_percent": 80.7, "correct": true },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 16.1, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 3.2, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "2(三)",
+  "correct_condition": "次の条件を満たして解答している。\n① 【農林水産省のウェブページにある資料の一部】から適切な情報を抜き出して書いている。\n② 引用する部分をかぎかっこ（「」）でくくって書いている。\n③ 「例えば、」に適切に続くように書いている。",
+  "correct_examples": [
+    "（例えば、）農林水産省のウェブページにある資料には、作業の自動化以外に「情報共有の簡易化」と「データの活用」が示されている。",
+    "（例えば、）農林水産省の資料によると、「作業の記録をデジタル化・自動化し、熟練者でなくても生産活動の主体になることが可能に」なったり、「農作物の生育や病虫害を予測し、高度な農業経営が可能に」なったりすることが示されている。",
+    "（例えば、）資料には、「熟練者でなくても生産活動の主体になることが可能」な「情報共有の簡易化」なども効果として挙げられている。"
+    ],
+  "incorrect_examples": [
+    "（例えば、）アプリの活用により熟練者でなくても生産活動の主体になることが可能になる情報共有の簡易化や、様々なＡＩ解析により、農作物の生育や病虫害を予測し、高度な農業経営が可能になるデータの活用があります。（解答類型３）",
+    "（例えば、）農林水産省の資料によると、「作業の記録をデジタル化し、誰でも生産活動の主体になることが可能に」なったり、「農作物の生育を予測し、高度な農業経営が可能に」なったりすることが示されている。（解答類型３）"
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "条件①、②、③を満たして解答しているもの", "response_rate_percent": 46.5, "correct": true },
+    { "type_id": 2, "answer_type": "条件①、②を満たし、条件③を満たさないで解答しているもの", "response_rate_percent": 0.1, "correct": false },
+    { "type_id": 3, "answer_type": "条件①、③を満たし、条件②を満たさないで解答しているもの", "response_rate_percent": 40.4, "correct": false },
+    { "type_id": 4, "answer_type": "条件②、③を満たし、条件①を満たさないで解答しているもの", "response_rate_percent": 0.7, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 3.5, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 8.8, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "3(一)",
+  "correct_condition": "次の条件を満たして解答している。\n① 「比ゆ」、「たとえ」のように解答しているもの。\n＊ 「比喩」、「ひゆ」、「比喩法」、「直喩」などと解答しているものも正答とする。\n② 「陽炎みたいに揺らめきながら」と同じ表現の技法が用いられているものとして３を選んでいる。",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    "（表現の技法）擬人法、３（解答類型３）",
+    "（表現の技法）体言止め、３（解答類型３）",
+    "（表現の技法）倒置、３（解答類型３）"
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "条件①、②を満たして解答しているもの", "response_rate_percent": 53.2, "correct": true },
+    { "type_id": 2, "answer_type": "条件①を満たし、条件②を満たさないで解答しているもの", "response_rate_percent": 1.1, "correct": false },
+    { "type_id": 3, "answer_type": "条件②を満たし、条件①を満たさないで解答しているもの", "response_rate_percent": 36.9, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 8.2, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.6, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "3(二)",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "１", "response_rate_percent": 84.3, "correct": true },
+    { "type_id": 2, "answer_type": "２", "response_rate_percent": 6.5, "correct": false },
+    { "type_id": 3, "answer_type": "３", "response_rate_percent": 4.0, "correct": false },
+    { "type_id": 4, "answer_type": "４", "response_rate_percent": 4.8, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.3, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "3(三)",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "Ａ→Ｂ→Ｃ", "response_rate_percent": 0.7, "correct": false },
+    { "type_id": 2, "answer_type": "Ａ→Ｃ→Ｂ", "response_rate_percent": 2.0, "correct": false },
+    { "type_id": 3, "answer_type": "Ｂ→Ａ→Ｃ", "response_rate_percent": 10.1, "correct": false },
+    { "type_id": 4, "answer_type": "Ｂ→Ｃ→Ａ", "response_rate_percent": 62.4, "correct": true },
+    { "type_id": 5, "answer_type": "Ｃ→Ａ→Ｂ", "response_rate_percent": 3.4, "correct": false },
+    { "type_id": 6, "answer_type": "Ｃ→Ｂ→Ａ", "response_rate_percent": 20.0, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.2, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 1.0, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "3(四)",
+  "correct_condition": "次の条件を満たして解答している。\n① 「おれ」は何を「なるほど」と思ったのかを適切に書いている。\n② ①について、話の展開を取り上げて書いている。"
+,
+  "correct_examples": [
+    "公園の噴水の広場で海にいるかのように遊ぶ「息子」と同じように、子供の頃の自分も想像力を働かせ、公園の水辺に海を見いだしていたこと。",
+    "息子は公園にある噴水の広場の水辺に自分なりの景色を見いだしているようだったが、子供の頃の自分も公園の水辺に海を見いだしていた。",
+    "「おれ」が幼い頃に遊んでいたと思っていた海は、実は公園の水辺だったことを「なるほど」と思った。",
+    "公園の水辺に海を見いだすことができるような子供の想像力の豊かさ。"
+    ],
+  "incorrect_examples": [
+    "子供の想像力がすごいということ。（解答類型２）",
+    "水辺に海を見出していたこと。（解答類型２）",
+    "水辺に海を見出していたのは、どうやら息子だけではなかったらしいこと。（解答類型２）",
+    "海というのはずいぶん縁の遠い存在だったと感じて、小さかった頃のことを思い出したこと。（解答類型３）"
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "条件①、②を満たして解答しているもの", "response_rate_percent": 74.2, "correct": true },
+    { "type_id": 2, "answer_type": "条件①を満たし、条件②を満たさないで解答しているもの", "response_rate_percent": 6.8, "correct": false },
+    { "type_id": 3, "answer_type": "条件②を満たし、条件①を満たさないで解答しているもの", "response_rate_percent": 2.8, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 3.2, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 13.0, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "4(一)",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "１", "response_rate_percent": 39.5, "correct": true },
+    { "type_id": 2, "answer_type": "２", "response_rate_percent": 9.0, "correct": false },
+    { "type_id": 3, "answer_type": "３", "response_rate_percent": 43.5, "correct": false },
+    { "type_id": 4, "answer_type": "４", "response_rate_percent": 7.1, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 0.9, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "4(二)",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "１", "response_rate_percent": 2.3, "correct": false },
+    { "type_id": 2, "answer_type": "２", "response_rate_percent": 2.3, "correct": false },
+    { "type_id": 3, "answer_type": "３", "response_rate_percent": 4.2, "correct": false },
+    { "type_id": 4, "answer_type": "４", "response_rate_percent": 90.2, "correct": true },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 1.0, "correct": false }
+  ]
+},
+{
+  "source": "National Assessment of Academic Ability",
+  "subject": "Middle School Language",
+  "year": "2022",
+  "question_number": "4(三)",
+  "correct_condition": "",
+  "correct_examples": [
+    ],
+  "incorrect_examples": [
+    ],
+  "answers": [
+    { "type_id": 1, "answer_type": "１", "response_rate_percent": 5.5, "correct": false },
+    { "type_id": 2, "answer_type": "２", "response_rate_percent": 81.3, "correct": true },
+    { "type_id": 3, "answer_type": "３", "response_rate_percent": 4.5, "correct": false },
+    { "type_id": 4, "answer_type": "４", "response_rate_percent": 7.5, "correct": false },
+    { "type_id": 99, "answer_type": "上記以外の解答", "response_rate_percent": 0.0, "correct": false },
+    { "type_id": 0, "answer_type": "無解答", "response_rate_percent": 1.1, "correct": false }
+  ]
+}
+]

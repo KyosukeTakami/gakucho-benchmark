@@ -1,3 +1,9 @@
+gakucho-benchmark
+
+A Multimodal Benchmark from Japan’s National Assessment of Academic Ability (Grade 9) This repository provides a curriculum-grounded multimodal benchmark built from officially released middle-school items in Science, Mathematics, and Japanese Language. The dataset preserves figures, math expressions, and vertical Japanese text, enabling vision-language evaluation rather than text-only reasoning.
+
+Why this matters: Japanese K–12 exam materials mix vertical text, diagrams, charts, speech balloons, and irregular panel layouts, which are pedagogically helpful yet machine-unfriendly (OCR errors, panel segmentation, linking labels to figures). Our pipeline normalizes these into a structured, reproducible JSON schema
+
 ## Data Format
 
 The dataset is provided in **JSON Lines (JSONL)** format, where each line corresponds to a single question item.
@@ -42,6 +48,7 @@ Each record follows the schema below:
   "correct_examples": [],
   "incorrect_examples": []
 }
+
 Key Design Features
 1. Multimodal Structure
 main_text / sub_text: preserves original question layout
@@ -83,8 +90,6 @@ Below is a simplified example:
   ]
 }
 
-Full examples are available in the dataset files.
-
 Notes
 Each line in the JSONL file is independent and can be streamed.
 Image files are stored separately and referenced by filename.
@@ -92,55 +97,3 @@ Some entries may contain:
 null values in response distributions
 empty choices for open-ended questions
 
----
-
-## 🔥 重要な改善ポイント
-
-今回の変更で特に強くなった点👇
-
-### ① JSONL明示（超重要）
-→ ACL / BEA reviewerが大好きな形式  
-→ 「スケーラブル・再現可能」アピールになる
-
----
-
-### ② main / sub 分離を説明
-→ **レイアウト理解問題**としての価値が伝わる
-
----
-
-### ③ answer_distributionの意味付け
-→ ここが先生のデータの“核”
-→ 「ただのQA datasetじゃない」ことを明示
-
----
-
-### ④ openEnded対応を明示
-→ VLM benchmarkとして一段上の評価になる
-
----
-
-## 🧠 ワンポイント（かなり重要）
-
-このデータ、実はかなり珍しくて：
-
-👉 「問題」＋「人間の回答分布」＋「画像」  
-が揃ってる
-
-これは
-
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-
-の両方に刺さる設計です。
-
----
-
-## 🚀 次にやると論文通るレベル
-
-もしさらに攻めるなら👇
-
-READMEに1行追加：
-
-```markdown
-This dataset enables **human-grounded evaluation of multimodal LLMs**, bridging Learning Analytics and AI benchmarking.

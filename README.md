@@ -1,4 +1,9 @@
-gakucho-benchmark
+- 📊 Human performance statistics (aggregated student response rates)
+- 🖼️ Original figures and layout-preserving assets
+- 🧮 Mixed question types:
+  - Multiple Choice (MC)
+  - Open-ended (free response)
+- 🇯🇵 Native Japanese educational context
 
 A Multimodal Benchmark from Japan’s National Assessment of Academic Ability (Grade 9) This repository provides a curriculum-grounded multimodal benchmark built from officially released middle-school items in Science, Mathematics, and Japanese Language. The dataset preserves figures, math expressions, and vertical Japanese text, enabling vision-language evaluation rather than text-only reasoning.
 

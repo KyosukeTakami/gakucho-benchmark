@@ -1,3 +1,45 @@
+# gakucho-benchmark
+
+A Human-Grounded Multimodal Benchmark from Japan’s National Assessment of Academic Ability (Grade 9)
+
+## Overview
+
+This repository provides a **curriculum-grounded multimodal benchmark** constructed from officially released items of Japan’s National Assessment of Academic Ability (Grade 9).
+
+The dataset spans:
+- Science
+- Mathematics
+- Japanese Language
+
+It preserves:
+- Figures and diagrams
+- Mathematical expressions
+- Vertical Japanese text
+- Complex layouts (panels, annotations, speech balloons)
+
+This enables **vision-language evaluation** beyond text-only reasoning.
+
+---
+
+## Motivation
+
+Japanese K–12 exam materials are inherently multimodal and structured in ways that are:
+
+- Pedagogically meaningful for students
+- Challenging for current AI systems
+
+Key challenges include:
+- Vertical text and multi-column layouts
+- Diagram–text alignment
+- OCR noise in dense annotations
+- Panel segmentation and spatial reasoning
+
+This benchmark is designed to evaluate how well models can **reason over educational content as it is actually presented in classrooms**.
+
+---
+
+## Dataset Features
+
 - 📊 Human performance statistics (aggregated student response rates)
 - 🖼️ Original figures and layout-preserving assets
 - 🧮 Mixed question types:

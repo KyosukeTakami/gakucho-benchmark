@@ -54,6 +54,8 @@ Each record follows the schema below:
   "incorrect_examples": []
 }
 
+```json
+
 Key Design Features
 1. Multimodal Structure
 main_text / sub_text: preserves original question layout

@@ -54,7 +54,7 @@ Each record follows the schema below:
   "incorrect_examples": []
 }
 
-```json
+```
 
 Key Design Features
 1. Multimodal Structure
